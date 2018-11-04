@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What’s the Capital of Malta?",
+        "answers": {
+            "a": "Valetta",
+            "b": "Valletta",
+            "c": "Valleta"
+        },
+        "correctAnswers": "b"
+    },
+    {
+        "question": "The current currency used in Malta is the Euro. But before the 1st of January 2008 it wasn't. What was it?",
+        "answers": {
+            "a": "Maltese Lira",
+            "b": "Maltese Ruble",
+            "c": "Maltese Doller"
+        },
+        "correctAnswers": "a"
+    },
+    {
+        "question": "What was the old Capital of Malta?",
+        "answers": {
+            "a": "Rabat",
+            "b": "Floriana",
+            "c": "Mdina"
+        },
+        "correctAnswers": "c"
+    },
+    {
+        "question": "Which of these films was not filmed in Malta?",
+        "answers": {
+            "a": "The Mummy",
+            "b": "Popeye",
+            "c": "Gladiator"
+        },
+        "correctAnswers": "a"
+    },
+    {
+        "question": "Which of these is a fishing village in Malta?",
+        "answers": {
+            "a": "Rabat",
+            "b": "Marsaxlokk",
+            "c": "Birkirkara"
+        },
+        "correctAnswers": "b"
+    }
+]
